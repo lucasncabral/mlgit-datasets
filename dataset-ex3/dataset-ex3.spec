@@ -2,10 +2,10 @@ dataset:
   categories:
   - test
   manifest:
-    amount: 8
+    amount: 9
     files: MANIFEST.yaml
-    size: 14.4 MB
+    size: 16.1 MB
     storage: s3h://ml-git-qa-us-east-1
   mutability: strict
   name: dataset-ex3
-  version: 1
+  version: 11
